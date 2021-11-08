@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<relationalModel class="oracle.dbtools.crest.model.design.relational.RelationalDesign" name="Modelo Físico" id="47772725-6578-2F08-F838-CA3189B7B168" mainViewID="83027042-6A92-FEDC-274D-82BA3D21FD2B">
+<createdBy>t_ala</createdBy>
+<createdTime>2021-09-28 16:47:34 UTC</createdTime>
+<ownerDesignName>Template_Modelo</ownerDesignName>
+<shouldBeOpen>true</shouldBeOpen>
+<selectedRDBMSSite>980FCE9E-D688-BDF0-C89A-C9FB2DCAED45</selectedRDBMSSite>
+</relationalModel>

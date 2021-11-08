@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Template_Modelo_logicalis" id="9AA68B25-A571-5DF5-8C35-C0BDB025E058" version="3.5">
+<createdBy>t_ala</createdBy>
+<createdTime>2021-09-28 16:47:32 UTC</createdTime>
+<ownerDesignName>Template_Modelo</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>9AA68B25-A571-5DF5-8C35-C0BDB025E058</designId>
+</OSDM_Design>
